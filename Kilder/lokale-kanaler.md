@@ -4,12 +4,20 @@ Dette dokumentet skal inneholde oppdaterte URL-er for streams med norske radioka
 Vi bruker kommuner for å kategorisere kanaler. Legg inn strømmens URL under riktig kommunenavn.  
 Bruk CTRl+F i nettleseren for å søke opp din kommune.
 
+
+
+
+
 ### For bidragsytere
 Ønsker du å bidra til denne listen? Vennligst bruk følgende format:  
 **KANALENS NAVN**: STRØMMENS_URL - ANTALL KBPS
 
 Hver kanal skal ligge på én linje.  
 Antall kbps er valgfritt å oppgi, men svært hjelpsomt. Du kan legge til flere variasjoner av samme strøm dersom tilgjengelig, f.eks. dersom det er både en 64kbs strøm og en 128kbps strøm.
+
+
+
+
 
 
 ## Vadsø
