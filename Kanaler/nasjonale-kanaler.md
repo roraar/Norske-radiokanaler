@@ -10,9 +10,8 @@ Dette dokumentet skal inneholde oppdaterte URL-er for streams med norske radioka
 Hver kanal skal ligge på én linje.  
 Antall kbps er valgfritt å oppgi, men svært hjelpsomt. Du kan legge til flere variasjoner av samme strøm dersom tilgjengelig, f.eks. dersom det er både en 64kbs strøm og en 128kbps strøm.  
 
-
-
-
+&nbsp;  
+&nbsp;
 
 ## NRK-kanalene
 
@@ -50,7 +49,7 @@ _For å finne din lokale NRK P1, se eget dokument for lokale kanaler_
 
 **P5 Hits** [https://p5.p4groupaudio.com/P05_MH] - 192kbps
 
-**P5 Hits (alternativ)** [https://p5n.p4groupaudio.com/P05AMH] - 192kbps
+**P5 Hits (alternativ)** [https://p5n.p4groupaudio.com/P05AMH] - 192kbps  
 _Usikker på hvorfor det er to P5 kanaler med forskjellig sendeskjema. Denne er ikke hovedkanalen_
 
 **P6 Rock** [https://p6.p4groupaudio.com/P06_MH] - 192kbps
