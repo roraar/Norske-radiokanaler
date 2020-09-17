@@ -191,7 +191,16 @@ Antall kbps er valgfritt å oppgi, men svært hjelpsomt. Du kan legge til flere 
 ## Rollag
 ## Sigdal
 ## Hole
+
 ## Oslo
+
+**The Beat (Beat FM)** [http://stream.thebeat.no/beat128.mp3] - 128kbps
+
+**Radio Rox** [http://stream.radiorox.no:8040/] - 128kbps
+
+**Radio Nova** [http://stream.radionova.no:80/fm993.mp3] - 256kbps
+
+
 ## Bærum
 ## Øvre Eiker
 ## Nesodden
@@ -338,7 +347,13 @@ Antall kbps er valgfritt å oppgi, men svært hjelpsomt. Du kan legge til flere 
 ## Risør
 ## Sør-Varanger
 ## Hurdal
+
 ## Drammen
+
+**NRK P1 Buskerud** [http://nrk-mms-live.telenorcdn.net:80/nrk_radio_p1_buskerud_mp3_h] - 192kbps
+
+**Radio Metro Buskerud** [http://stream.radiometro.no/buskerud128.mp3] - 128kbps
+
 ## Nordre Follo
 ## Indre Østfold
 ## Asker
